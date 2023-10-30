@@ -3,7 +3,7 @@
 title: Lingyi Kong
 
 # Name pronunciation (optional)
-name_pronunciation: Lingyi Kong
+# name_pronunciation: Lingyi Kong
 
 # Full name (for SEO)
 first_name: Lingyi
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I'm Lingyi Kong, a PhD candidate in Finance at Baruch College. My research is in machine learning applications in finance, with special interest in applications in market microstructure
 {style="text-align: justify;"}
