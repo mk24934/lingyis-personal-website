@@ -86,7 +86,7 @@ skills:
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Traveling
+      - name: Hiking
         description: ''
         percent: 60
         icon: person-hiking
