@@ -62,27 +62,32 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Adjunct Instructor
+          company: Baruch College
+          company_url: 'https://www.baruch.cuny.edu'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: New York
+          date_start: '2021-08-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+              * Instructor for FIN3000 - Principle of Corporate Finance
+              * Instructor for PhD Math and Coding Camp
+        - title: Research Assistant
+          company: Baruch College
+          company_url: 'https://www.baruch.cuny.edu'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: New York
+          date_start: '2021-08-01'
+          date_end: ''
+          description: Built machine learning models to study market microsturucture with Professor Robert A. Schwartz.
+        - title: Graduate Teaching Assistant
+          company: Brandeis University
+          company_url: 'https://www.brandeis.edu'
+          company_logo: org-x
+          location: Massachusetts
+          date_start: '2018-09-01'
+          date_end: '2018-12-31'
+          description: Teaching Assistant for ECON/FIN250 - Forecasting in Economics and Finance.
     design:
       columns: '2'
   - block: accomplishments
@@ -232,35 +237,35 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        If you would like to get in contact with me, feel free to fill out this form here or send an e-mail.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      email: mail@email.com
+      # phone: 888 888 88 88
+      # appointment_url: 'https://calendly.com'
+      # address:
+      #   street: 450 Serra Mall
+      #   city: Stanford
+      #   region: CA
+      #   postcode: '94305'
+      #   country: United States
+      #   country_code: US
+      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      # office_hours:
+      #   - 'Monday 10:00 to 13:00'
+      #   - 'Wednesday 09:00 to 10:00'
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          link: 'https://twitter.com/LingyiKong0533'
+        # - icon: skype
+        #   icon_pack: fab
+        #   name: Skype Me
+        #   link: 'skype:echo123?call'
+        # - icon: video
+        #   icon_pack: fas
+        #   name: Zoom Me
+        #   link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
