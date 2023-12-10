@@ -39,12 +39,12 @@ education:
     - course: PhD in Finance
       institution: Baruch College
       year: expected in 2025
-    - course: MA in Business
+    - course: MS in Financial Mathematics
       institution: Brandeis University
-      year: 2021
-    - course: BA in Finance
-      institution: Zhongnan University of Economics and Law
       year: 2019
+    - course: BS in Economics
+      institution: Zhongnan University of Economics and Law
+      year: 2017
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -74,7 +74,7 @@ skills:
         icon_pack: fab
       - name: SQL
         description: ''
-        percent: 40
+        percent: 90
         icon: database
         icon_pack: fas
   - name: Hobbies

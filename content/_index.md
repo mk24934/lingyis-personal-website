@@ -240,7 +240,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        If you would like to get in contact with me, feel free to fill out this form here or send an e-mail.
+        If you would like to get in contact with me, feel free to reach out via e-mail or Twitter.
       # Contact (add or remove contact options as necessary)
       email: mail@email.com
       # phone: 888 888 88 88
@@ -272,13 +272,13 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
     design:
       columns: '2'
 ---
